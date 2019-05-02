@@ -4,7 +4,7 @@ Data Carpentry Course. Tips for organizing research.
 # Name
 
 # Type of Scientist (what you tell strangers)
-Research fellow
+- Research fellow
 
 # 3 activities you've done at work in the last three months
 1. Onboarding
