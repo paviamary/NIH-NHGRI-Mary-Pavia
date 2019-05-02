@@ -2,6 +2,7 @@
 Data Carpentry Course. Tips for organizing research.
 
 # Name
+Mary
 
 # Type of Scientist (what you tell strangers)
 - Research fellow
